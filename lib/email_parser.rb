@@ -4,6 +4,5 @@
 # or whitespace (' ').
 
 class EmailParser
-  EmailAddressParser 
+  EmailAddressParser = ()
 end
-  
